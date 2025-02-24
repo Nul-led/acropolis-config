@@ -1,0 +1,10 @@
+{
+  "name": "Node",
+  "id": "node",
+  "barrels": [],
+  "evolutions": [
+    "mono",
+    "commander",
+    "trapper"
+  ]
+}
